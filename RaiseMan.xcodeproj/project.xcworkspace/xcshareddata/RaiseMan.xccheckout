@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11E1D264-BE47-4B31-B22D-F3BBCAACAB77</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RaiseMan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBBCA73B208622669D43726A965E1058533C602F</key>
+		<string>https://github.com/zorn/RaiseMan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RaiseMan.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBBCA73B208622669D43726A965E1058533C602F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zorn/RaiseMan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBBCA73B208622669D43726A965E1058533C602F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBBCA73B208622669D43726A965E1058533C602F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RaiseMan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
