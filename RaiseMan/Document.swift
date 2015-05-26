@@ -37,11 +37,14 @@ class Document: NSDocument, NSWindowDelegate {
     }
 
     override func dataOfType(typeName: String, error outError: NSErrorPointer) -> NSData? {
-        return nil
+        tableView.window?.endEditingFor(nil)
+        return NSKeyedArchiver.archivedDataWithRootObject(employees)
     }
 
     override func readFromData(data: NSData, ofType typeName: String, error outError: NSErrorPointer) -> Bool {
-        return false
+        println("about to read data of type \(typeName)")
+        employees = NSKeyedUnarchiver.unarchiveObjectWithData(data) as! [Employee]
+        return true
     }
     
     //MARK: - Actions

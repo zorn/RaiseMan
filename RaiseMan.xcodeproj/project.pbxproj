@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1A09620A1B0D328B0088F980 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0962091B0D328A0088F980 /* Employee.swift */; };
+		1A20C9A41B14D3CD00FE8A8A /* txt.icns in Resources */ = {isa = PBXBuildFile; fileRef = 1A20C9A31B14D3CD00FE8A8A /* txt.icns */; };
 		1A60D75A1B0D2FBD00124B95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A60D7591B0D2FBD00124B95 /* AppDelegate.swift */; };
 		1A60D75C1B0D2FBD00124B95 /* Document.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A60D75B1B0D2FBD00124B95 /* Document.swift */; };
 		1A60D75F1B0D2FBD00124B95 /* Document.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A60D75D1B0D2FBD00124B95 /* Document.xib */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		1A0962091B0D328A0088F980 /* Employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		1A20C9A31B14D3CD00FE8A8A /* txt.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = txt.icns; sourceTree = "<group>"; };
 		1A60D7541B0D2FBD00124B95 /* RaiseMan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RaiseMan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A60D7581B0D2FBD00124B95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A60D7591B0D2FBD00124B95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		1A60D7561B0D2FBD00124B95 /* RaiseMan */ = {
 			isa = PBXGroup;
 			children = (
+				1A20C9A31B14D3CD00FE8A8A /* txt.icns */,
 				1A60D7591B0D2FBD00124B95 /* AppDelegate.swift */,
 				1A0962091B0D328A0088F980 /* Employee.swift */,
 				1A60D75B1B0D2FBD00124B95 /* Document.swift */,
@@ -198,6 +201,7 @@
 				1A60D75F1B0D2FBD00124B95 /* Document.xib in Resources */,
 				1A60D7611B0D2FBD00124B95 /* Images.xcassets in Resources */,
 				1A60D7641B0D2FBD00124B95 /* MainMenu.xib in Resources */,
+				1A20C9A41B14D3CD00FE8A8A /* txt.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
